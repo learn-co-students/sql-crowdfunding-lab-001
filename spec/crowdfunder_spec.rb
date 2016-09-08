@@ -119,4 +119,3 @@ describe "crowdfunder sql" do
     end
   end
 end
-
